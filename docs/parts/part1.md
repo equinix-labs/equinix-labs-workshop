@@ -1,4 +1,5 @@
 <!-- See https://squidfunk.github.io/mkdocs-material/reference/ -->
+
 # Part 1: Setup
 
 ## Steps
@@ -13,5 +14,5 @@
 
 Before proceeding to the next part let's take a few minutes to discuss what we did. Here are some questions to start the discussion.
 
-* ...
-* ...
+- ...
+- ...
